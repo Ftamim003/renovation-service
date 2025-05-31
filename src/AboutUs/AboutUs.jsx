@@ -1,5 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import FutureDesign from './FutureDesign';
+import Mission from './Mission';
+import WhyChooseUs from './WhyChooseUs';
 
 const AboutUs = () => {
     return (
@@ -97,6 +100,9 @@ const AboutUs = () => {
                 </div>
             </div>
 
+            <FutureDesign></FutureDesign>
+            <Mission></Mission>
+            <WhyChooseUs></WhyChooseUs>
         </div>
 
 
