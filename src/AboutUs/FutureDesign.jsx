@@ -2,7 +2,7 @@ import React from 'react';
 
 const FutureDesign = () => {
   return (
-    <div className="relative font-sans bg-white overflow-hidden">
+    <div className="w-11/12 mx-auto relative font-sans bg-white overflow-hidden">
       {/* Top Section */}
       <div className="p-8 md:p-16">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">

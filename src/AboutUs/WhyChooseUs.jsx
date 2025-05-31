@@ -3,7 +3,7 @@ import React from 'react';
 
 const WhyChooseUs = () => {
     return (
-        <div className='w-full h-[750px] bg-[rgba(23,40,41,1)]'>
+        <div className='w-full bg-[rgba(23,40,41,1)]'>
             <div className='flex p-10 items-center justify-center'>
                 <div>
                     <img className='mt-7 w-[550px] h-[600px]' src="/Images/Kitchen.png" alt="" />
