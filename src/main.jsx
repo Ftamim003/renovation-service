@@ -8,11 +8,23 @@ import {
 } from "react-router-dom";
 import Navbar from './Home/Navbar.jsx';
 import Home from './Home/Home.jsx';
+import AboutUs from './AboutUs/AboutUs.jsx';
+import Layout from './Layouts/Layout.jsx';
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home></Home>,
+    element: <Layout></Layout>,
+    children: [
+      {
+        path: "/",
+        element: <Home />,
+      },
+      {
+        path: "/about",
+        element: <AboutUs />,
+      },
+    ],
   },
 ]);
 

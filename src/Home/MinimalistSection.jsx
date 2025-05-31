@@ -38,7 +38,7 @@ export default function MinimalistDesign() {
         
         <div className="w-full md:w-1/2">
           <img
-            src="/public/Images/minimalisticKitchen.jpg"
+            src="/Images/minimalisticKitchen.jpg"
             alt="Modern Kitchen"
             className="w-[500px] h-[500px] object-cover"
           />

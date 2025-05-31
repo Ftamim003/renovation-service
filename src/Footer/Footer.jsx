@@ -12,7 +12,7 @@ const Footer = () => {
             <footer className="footer sm:footer-horizontal  text-base-content p-10 ">
                 <aside>
                     <div className='flex flex-col justify-center items-center'>
-                        <img className='w-16 h-16 ' src="/public/Images/topImage.png " alt="" />
+                        <img className='w-16 h-16 ' src="/Images/topImage.png " alt="" />
                         <p className='font-poppins text-md text-[rgba(235,235,235,1)] mt-5'>
                             Transform your home or office into a stylish and <br /> comfortable space that reflects your unique taste.
                         </p>

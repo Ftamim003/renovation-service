@@ -11,21 +11,21 @@ const CompleteProject = () => {
 
                 <div className='flex gap-7 mt-7'>
                     <div >
-                        <img className='w-[600px] h-[650px]' src="/public/Images/Sink1.png" alt="" />
+                        <img className='w-[600px] h-[650px]' src="/Images/Sink1.png" alt="" />
                     </div>
                     <div >
-                        <img className='w-[1110px] h-[650px]' src="/public/Images/Kitchen1.png" alt="" />
+                        <img className='w-[1110px] h-[650px]' src="/Images/Kitchen1.png" alt="" />
                     </div>
                 </div>
 
                 <div className='flex gap-7 mt-7'>
                     
                     <div >
-                        <img className='w-[1110px] h-[650px]' src="/public/Images/Kitchen2.png" alt="" />
+                        <img className='w-[1110px] h-[650px]' src="Images/Kitchen2.png" alt="" />
                     </div>
 
                     <div >
-                        <img className='w-[600px] h-[650px]' src="/public/Images/Sink2.png" alt="" />
+                        <img className='w-[600px] h-[650px]' src="/Images/Sink2.png" alt="" />
                     </div>
                 </div>
             </div>
